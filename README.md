@@ -14,5 +14,7 @@ The advertising dataset, which includes variables related to advertising budgets
 **Key Components:**
 
 Code: Scripts for data preprocessing, analysis, and model building.
+
 Data: The advertising dataset used for the analysis.
+
 Documentation: Detailed explanation of the steps
